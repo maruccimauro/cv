@@ -2,7 +2,8 @@
 
 **Desarrollador Web \| Backend & Frontend \| Automatización de Procesos \| PHP \| Python \| .NET CORE \| JavaScript \| React** <br>
 
-Mas info en | [LinkedIn](https://www.linkedin.com/in/mauro-marucci/) | [GitHub](https://github.com/maruccimauro)
+Mas info en | [LinkedIn](https://www.linkedin.com/in/mauro-marucci/) | [GitHub](https://github.com/maruccimauro)<br>
+Contacto: +54 9 342 4283729 | marucci.mauro@gmail.com
 
 ## 💻 Perfil Profesional
 
